@@ -2,9 +2,8 @@
 
 
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-##### Hi, I'm Shantanu:
+##### I'm Shantanu:
 
 - 🎓Final year student in computer science and engineering from Galgotias University - Gr Noida
 - :mailbox: You can reach me with the links below
