@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/36238748/93034133-ab502c80-f656-11ea-826c-476fddb8cf49.gif)](https://shan.codes/)
+[![Header](https://user-images.githubusercontent.com/36238748/93034703-91afe480-f658-11ea-8b19-51f3bff634d6.gif)](https://shan.codes/)
 
 ##### Hi, I'm Shantanu:
 
@@ -12,7 +12,7 @@
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![WEB](https://img.shields.io/badge/-Web Development-000000?style=flat&logo=web)
+![WEB](https://img.shields.io/badge/-Web-000000?style=flat&logo=web)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
