@@ -3,7 +3,7 @@
 <h2 align="Center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi I'm 
 <h2 align="Center"><img src ="https://user-images.githubusercontent.com/36238748/93034703-91afe480-f658-11ea-8b19-51f3bff634d6.gif" ></h2> 
 
-<p align="center"> <samp>Hi, My name is Shantanu Mishra, possessing a Bachelor's degree in Computer Science and Engineering from Galgotias University.I am Motivated to learn new stuff,love to working on new ideas.I have significant knowledge of Python Machine leaning and Web Development.
+<p align="center"> <samp>I am possessing a Bachelor's degree in Computer Science and Engineering from Galgotias University.I am Motivated to learn new stuff,love to working on new ideas.I have significant knowledge of Python Machine leaning and Web Development.
   
 ##### Find me On -
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantmiitanphy@gmail.com)
