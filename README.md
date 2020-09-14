@@ -3,12 +3,9 @@
 <h2 align="Center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi I'm 
 <h2 align="Center"><img src ="https://user-images.githubusercontent.com/36238748/93034703-91afe480-f658-11ea-8b19-51f3bff634d6.gif" ></h2> 
 
-
-##### About Me :):
-
-- 🎓Final year student in computer science and engineering from Galgotias University - Gr Noida
-- :mailbox: You can reach me with the links below
-
+<p align="center"> <samp>Hi, My name is Shantanu Mishra, possessing a Bachelor's degree in Computer Science and Engineering from Galgotias University.I am Motivated to learn new stuff,love to working on new ideas.I have significant knowledge of Python Machine leaning and Web Development.
+  
+##### Find me On -
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantmiitanphy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-mishra-8b6b66151/)
 [![adamalston.com](https://img.shields.io/badge/-SHAN.CODES-000000?style=for-the-badge&logo=react&logoColor=white)](https://shan.codes/)
@@ -16,7 +13,6 @@
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![WEB](https://img.shields.io/badge/-Web-000000?style=flat&logo=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
