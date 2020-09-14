@@ -5,10 +5,14 @@
 
 <p align="center"> <samp>Possessing a Bachelor's degree in Computer Science and Engineering from Galgotias University.I am Motivated to learn new stuff,love to working on new ideas.I have significant knowledge of Python Machine leaning and Web Development.
   
+ <h2 align ="Center"> <img src="https://github-readme-stats.vercel.app/api?username=me-shantanu&count_private=true&show_icons=true&theme=tokyonight&hide=prs"></h2>
+  
 ##### Find me On -
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantmiitanphy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-mishra-8b6b66151/)
 [![adamalston.com](https://img.shields.io/badge/-SHAN.CODES-000000?style=for-the-badge&logo=react&logoColor=white)](https://shan.codes/)
+
+
 
 ##### Languages I use
 
@@ -29,6 +33,7 @@
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
 </p>
+
 
 
 
