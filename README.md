@@ -42,14 +42,12 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 ``` Python
-// Which come frist: this chicken or the egg?
+# Which come frist: this chicken or the egg?
 que = ['🥚', '🐣', '🐥', '🐔']
 que.sort()
 print(que)
 
 >>> ['🐔', '🐣', '🐥', '🥚']
 ```
-```
-so we all know the answer now 
-```
+
 
