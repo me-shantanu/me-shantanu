@@ -4,7 +4,7 @@
 <h2 align="Center"><img src ="https://user-images.githubusercontent.com/36238748/93034703-91afe480-f658-11ea-8b19-51f3bff634d6.gif" ></h2> 
 
 
-##### I'm Shantanu:
+##### About Me :):
 
 - 🎓Final year student in computer science and engineering from Galgotias University - Gr Noida
 - :mailbox: You can reach me with the links below
