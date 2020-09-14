@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"> 
+<img src ="https://user-images.githubusercontent.com/36238748/93034703-91afe480-f658-11ea-8b19-51f3bff634d6.gif" >
 
-
-<h2 align="Center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Hi I'm  <img src ="https://user-images.githubusercontent.com/36238748/93034703-91afe480-f658-11ea-8b19-51f3bff634d6.gif" ></h3>
+<h2 align="Center"> Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
 
 
 ##### I'm Shantanu:
@@ -16,7 +16,7 @@
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![WEB](https://img.shields.io/badge/-Web-000000?style=flat&logo=web)
+![WEB](https://img.shields.io/badge/-Web-000000?style=flat&logo=browser)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
@@ -25,23 +25,11 @@
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-##### Some of my favorite open source projects
-
-[![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
-[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
-[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
