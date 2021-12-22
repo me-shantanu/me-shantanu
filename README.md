@@ -10,7 +10,7 @@
 ##### Find me On -
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantmiitanphy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-mishra-8b6b66151/)
-[![adamalston.com](https://img.shields.io/badge/-SHAN.CODES-000000?style=for-the-badge&logo=react&logoColor=white)](https://shan.codes/)
+[![adamalston.com](https://img.shields.io/badge/-SHANTANU-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.shantanumishra.co.in/)
 
 
 
